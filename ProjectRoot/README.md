@@ -1,8 +1,6 @@
 # Lifesaivior Android (Offline Rescue Support)
 
-<p align="center">
-  <strong><em>가장 위급한 순간, 가장 가까운 곳에.</em></strong>
-</p>
+<strong><em>가장 위급한 순간, 가장 가까운 곳에.</em></strong>
 
 Lifesaivior는 재난 상황에서 인터넷과 기지국이 끊겨도 구조 신호를 전달할 수 있는 오프라인 구조 지원 앱입니다.
 피구조자가 보낸 구조 신호는 BLE로 연결된 주변 단말을 거쳐 다음 단말로 전달되며, 통신 범위를 점차 넓혀갑니다.
